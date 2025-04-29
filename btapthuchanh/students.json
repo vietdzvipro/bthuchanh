@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "Thông tin sinh viên": {
+            "Họ tên": "viet",
+            "MSSV": "123",
+            "Lớp": "111",
+            "SĐT": "12321321",
+            "Ngày sinh": "13/01/2004",
+            "Địa chỉ hiện tại": "tn"
+        },
+        "Thông tin gia đình": {
+            "Địa chỉ gia đình": "tn",
+            "Họ tên bố": "alex",
+            "Họ tên mẹ": "ffifi"
+        }
+    }
+]
